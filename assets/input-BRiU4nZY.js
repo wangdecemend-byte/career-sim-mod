@@ -1,0 +1,1 @@
+import{r as d,j as s,G as a}from"./index-DmJHRE57.js";const n=d.forwardRef(({className:r,type:e,...o},t)=>s.jsx("input",{type:e,className:a("flex h-10 w-full rounded-md border border-border bg-background px-3 py-2 text-sm ring-offset-foreground placeholder:text-muted-foreground disabled:cursor-not-allowed disabled:opacity-50",r),ref:t,...o}));n.displayName="Input";export{n as I};
